@@ -1,0 +1,12 @@
+{
+  "en": {
+    "ticker_text": "Welcome to Muscat International Airport. We wish you a pleasant stay in Oman.",
+    "ad_image_url": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?q=80&w=600&auto=format&fit=crop",
+    "ad_text": "Discover the beauty of Oman with us!"
+  },
+  "ar": {
+    "ticker_text": "مرحباً بكم في مطار مسقط الدولي. نتمنى لكم إقامة طيبة في سلطنة عُمان.",
+    "ad_image_url": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?q=80&w=600&auto=format&fit=crop",
+    "ad_text": "اكتشف جمال عُمان معنا!"
+  }
+}
