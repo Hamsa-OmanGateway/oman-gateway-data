@@ -1,6 +1,6 @@
 {
   "en": {
-    "ticker_text": "Welcome to Muscat International Airport.",
+  "ticker_text": "Welcome to Muscat International Airport. We wish you a pleasant stay in Oman. Please ensure you have all your travel documents ready for the immigration desk. For your safety and comfort, smoking is strictly prohibited in all airport terminals. Free Wi-Fi is available throughout the airport.",
     "ads": [
       {
         "type": "image",
@@ -20,7 +20,7 @@
     ]
   },
   "ar": {
-    "ticker_text": "مرحباً بكم في مطار مسقط الدولي.",
+"ticker_text": "مرحباً بكم في مطار مسقط الدولي. نتمنى لكم إقامة طيبة في سلطنة عُمان. يرجى التأكد من تجهيز وثائق السفر الخاصة بكم لمكتب الجوازات. حفاظاً على سلامتكم وراحتكم، يُمنع التدخين نهائياً في جميع صالات المطار. خدمة الإنترنت اللاسلكي متاحة مجاناً.",
     "ads": [
       {
         "type": "image",
