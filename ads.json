@@ -1,41 +1,101 @@
 {
   "en": {
-  "ticker_text": "Welcome to Muscat International Airport. We wish you a pleasant stay in Oman. Please ensure you have all your travel documents ready for the immigration desk. For your safety and comfort, smoking is strictly prohibited in all airport terminals. Free Wi-Fi is available throughout the airport.",
+    "ticker_text": "Welcome to Muscat International Airport. We wish you a pleasant stay in Oman. Please ensure you have all your travel documents ready for the immigration desk. For your safety and comfort, smoking is strictly prohibited in all airport terminals. Free Wi-Fi is available throughout the airport.",
     "ads": [
       {
+        "type": "video",
+        "url": "https://www.pexels.com/download/video/36852908/",
+        "text": "Experience the beauty of Oman."
+      },
+      {
         "type": "image",
-        "url": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?q=80&w=800&auto=format&fit=crop",
-        "text": "Discover the beauty of Oman!"
+        "url": "https://tse3.mm.bing.net/th/id/OIP.1e9bQC-sbaajNp68804TNAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "text": "Discover the rich heritage of Muscat."
+      },
+      {
+        "type": "image",
+        "url": "https://media.licdn.com/dms/image/v2/D5610AQFjCfA3-LItsQ/image-shrink_1280/B56ZT0JOxfGsAM-/0/1739262849672/1_1080x1080_EN6jpg?e=2147483647&v=beta&t=RJN3vpAZeYgX5pEkPgtPMLEbbkdX1ZDxzFDfMzVQu8U",
+        "text": "Stay connected with our tourist SIM cards."
+      },
+      {
+        "type": "image",
+        "url": "https://tse1.mm.bing.net/th/id/OIP.ELDJVlHsFMuj2Hyz_RwNvwHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "text": "Explore the stunning landscapes of Oman."
+      },
+      {
+        "type": "image",
+        "url": "https://i.ebayimg.com/images/g/SdEAAOSw2zVjl1VE/s-l1200.jpg",
+        "text": "Traditional Omani crafts and souvenirs."
       },
       {
         "type": "video",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-        "text": "Book your luxury stay at Shangri-La."
+        "url": "https://www.pexels.com/download/video/30226373/",
+        "text": "Your journey begins here."
       },
       {
         "type": "image",
-        "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=800&auto=format&fit=crop",
-        "text": "Special offers from Omantel."
+        "url": "https://www.traveltomtom.net/images/nieuwe_indeling/artikels/albania/sim_card_tirana/vodafone_tourist_sim_card_tirana_airport.webp",
+        "text": "Get your Vodafone tourist SIM today."
+      },
+      {
+        "type": "image",
+        "url": "https://i.pinimg.com/originals/25/a2/0a/25a20a4a3fe44fa31e78b41fab497ab5.jpg",
+        "text": "Enjoy luxury and comfort in Oman."
+      },
+      {
+        "type": "image",
+        "url": "https://tse3.mm.bing.net/th/id/OIP.KwQSLvFMOvF5i_GzbtX7oAHaJ4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "text": "Book your taxi and explore the city."
       }
     ]
   },
   "ar": {
-"ticker_text": "مرحباً بكم في مطار مسقط الدولي. نتمنى لكم إقامة طيبة في سلطنة عُمان. يرجى التأكد من تجهيز وثائق السفر الخاصة بكم لمكتب الجوازات. حفاظاً على سلامتكم وراحتكم، يُمنع التدخين نهائياً في جميع صالات المطار. خدمة الإنترنت اللاسلكي متاحة مجاناً.",
+    "ticker_text": "مرحباً بكم في مطار مسقط الدولي. نتمنى لكم إقامة طيبة في سلطنة عُمان. يرجى التأكد من تجهيز وثائق السفر الخاصة بكم لمكتب الجوازات. حفاظاً على سلامتكم وراحتكم، يُمنع التدخين نهائياً في جميع صالات المطار. خدمة الإنترنت اللاسلكي متاحة مجاناً.",
     "ads": [
       {
+        "type": "video",
+        "url": "https://www.pexels.com/download/video/36852908/",
+        "text": "اختبر جمال عُمان."
+      },
+      {
         "type": "image",
-        "url": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?q=80&w=800&auto=format&fit=crop",
-        "text": "اكتشف جمال عُمان معنا!"
+        "url": "https://tse3.mm.bing.net/th/id/OIP.1e9bQC-sbaajNp68804TNAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "text": "اكتشف تراث مسقط الغني."
+      },
+      {
+        "type": "image",
+        "url": "https://media.licdn.com/dms/image/v2/D5610AQFjCfA3-LItsQ/image-shrink_1280/B56ZT0JOxfGsAM-/0/1739262849672/1_1080x1080_EN6jpg?e=2147483647&v=beta&t=RJN3vpAZeYgX5pEkPgtPMLEbbkdX1ZDxzFDfMzVQu8U",
+        "text": "ابقَ على تواصل مع شرائح السياح."
+      },
+      {
+        "type": "image",
+        "url": "https://tse1.mm.bing.net/th/id/OIP.ELDJVlHsFMuj2Hyz_RwNvwHaNK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "text": "استكشف المناظر الطبيعية الخلابة في عُمان."
+      },
+      {
+        "type": "image",
+        "url": "https://i.ebayimg.com/images/g/SdEAAOSw2zVjl1VE/s-l1200.jpg",
+        "text": "الحرف والهدايا التذكارية العُمانية التقليدية."
       },
       {
         "type": "video",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-        "text": "احجز إقامتك الفاخرة في شانغريلا."
+        "url": "https://www.pexels.com/download/video/30226373/",
+        "text": "رحلتك تبدأ من هنا."
       },
       {
         "type": "image",
-        "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=800&auto=format&fit=crop",
-        "text": "عروض خاصة من عمانتل."
+        "url": "https://www.traveltomtom.net/images/nieuwe_indeling/artikels/albania/sim_card_tirana/vodafone_tourist_sim_card_tirana_airport.webp",
+        "text": "احصل على شريحة فودافون للسياح اليوم."
+      },
+      {
+        "type": "image",
+        "url": "https://i.pinimg.com/originals/25/a2/0a/25a20a4a3fe44fa31e78b41fab497ab5.jpg",
+        "text": "استمتع بالفخامة والراحة في عُمان."
+      },
+      {
+        "type": "image",
+        "url": "https://tse3.mm.bing.net/th/id/OIP.KwQSLvFMOvF5i_GzbtX7oAHaJ4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "text": "احجز سيارة الأجرة واستكشف المدينة."
       }
     ]
   }
